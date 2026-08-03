@@ -68,51 +68,52 @@ Hermès（爱马仕）：品牌源头来自 Thierry Hermès，是典型的姓氏
 ——姓氏 + 公司、地名 + 公司、创始人昵称 + 品牌。
 
 全球知名人名品牌一览
-品牌	创始人全名	行业	命名关系 / 补充说明
-路易威登（Louis Vuitton）	Louis Vuitton	奢侈品 / 箱包	直接使用创始人全名。
-香奈儿（Chanel）	Gabrielle Bonheur Chanel	奢侈品 / 时尚	“Coco”是昵称，品牌名来自姓氏。
-迪奥（Dior）	Christian Dior	奢侈品 / 时尚	直接使用创始人姓氏。
-爱马仕（Hermès）	Thierry Hermès	奢侈品 / 时尚	直接使用创始人姓氏。
-古驰（Gucci）	Guccio Gucci	奢侈品 / 时尚	使用创始人姓氏。
-普拉达（Prada）	Mario Prada	奢侈品 / 时尚	使用创始人姓氏。
-范思哲（Versace）	Gianni Versace	奢侈品 / 时尚	使用创始人姓氏。
-阿玛尼（Armani）	Giorgio Armani	奢侈品 / 时尚	使用创始人姓氏。
-法拉利（Ferrari）	Enzo Ferrari	汽车	使用创始人姓氏。
-福特（Ford）	Henry Ford	汽车	使用创始人姓氏。
-保时捷（Porsche）	Ferdinand Porsche	汽车	使用创始人姓氏。
-奔驰（Benz）	Karl Benz	汽车	使用创始人姓氏。
-劳斯莱斯（Rolls-Royce）	Charles Rolls / Henry Royce	汽车	由两位创始人姓氏组合而成。
-雪佛兰（Chevrolet）	Louis Chevrolet	汽车	直接使用创始人姓氏。
-宝马（BMW）	Bayerische Motoren Werke	汽车	不是人名，而是“巴伐利亚发动机制造厂”的缩写。
-丰田（Toyota）	Sakichi Toyoda / Kiichiro Toyoda	汽车	源于创始人家族姓氏。
-本田（Honda）	Soichiro Honda	汽车 / 摩托	使用创始人姓氏。
-铃木（Suzuki）	Michio Suzuki	汽车 / 摩托	使用创始人姓氏。
-雅马哈（Yamaha）	Torakusu Yamaha	汽车 / 摩托 / 机械	使用创始人姓氏。
-麦当劳（McDonald’s）	Richard McDonald / Maurice McDonald	餐饮	使用兄弟俩姓氏。
-肯德基（KFC）	Harland Sanders	餐饮	以创始人外号“Colonel Sanders”为核心符号。
-沃尔玛（Walmart）	Sam Walton	零售	取自创始人姓氏 Walton。
-希尔顿（Hilton）	Conrad Hilton	酒店	使用创始人姓氏。
-万豪（Marriott）	J. Willard Marriott	酒店	使用创始人姓氏。
-赫兹（Hertz）	Walter L. Jacobs / 后续品牌沿用	汽车租赁	典型的创始人式商业品牌。
-李维斯（Levi’s）	Levi Strauss	服饰	使用创始人姓名。
-盖璞（Gap）	Donald Fisher / Doris Fisher	服饰零售	不是人名，是品牌概念型命名。
-强生（Johnson & Johnson）	Robert Wood Johnson 等	医疗 / 日化	由创始人家族姓氏组成。
-宝洁（Procter & Gamble）	William Procter / James Gamble	日化	由两位合伙人姓氏组成。
-西门子（Siemens）	Werner von Siemens	工业 / 电气	使用创始人姓氏。
-博世（Bosch）	Robert Bosch	工业 / 汽车零部件	使用创始人姓氏。
-施耐德（Schneider）	Schneider 兄弟	工业 / 电气	使用家族姓氏。
-佳能（Canon）	Goro Yoshida（品牌源头）	光学 / 电子	不完全是人名，但与创始团队有关。
-可口可乐（Coca-Cola）	John Stith Pemberton	饮料	不是人名命名，是配方概念型命名。
-百事可乐（Pepsi）	Caleb Bradham	饮料	不是人名命名，是成分/概念型命名。
-维密（Victoria’s Secret）	Roy Raymond	内衣	不是创始人名，而是借用维多利亚时代意象。
-斯沃琪（Swatch）	Nicolas Hayek	手表	不是人名命名，是缩写型命名。
-迪士尼（Disney）	Walt Disney	娱乐	使用创始人姓氏。
-福克斯（Fox）	William Fox	娱乐	使用创始人姓氏。
-华纳兄弟（Warner Bros.）	Warner 家族	娱乐	使用家族姓氏。
-卡地亚（Cartier）	Louis-François Cartier	珠宝	使用创始人姓氏。
-蒂芙尼（Tiffany & Co.）	Charles Lewis Tiffany	珠宝	使用创始人全名。
-耐克（Nike）	不是人名	运动品牌	来自希腊胜利女神，不属于创始人命名。
-星巴克（Starbucks）	不是人名	咖啡	来自文学人物名，不属于创始人命名。
+| 品牌 | 创始人全名 | 行业 | 命名关系 / 补充说明 |
+| --- | --- | --- | --- |
+| 路易威登（Louis Vuitton） | Louis Vuitton | 奢侈品 / 箱包 | 直接使用创始人全名。 |
+| 香奈儿（Chanel） | Gabrielle Bonheur Chanel | 奢侈品 / 时尚 | “Coco”是昵称，品牌名来自姓氏。 |
+| 迪奥（Dior） | Christian Dior | 奢侈品 / 时尚 | 直接使用创始人姓氏。 |
+| 爱马仕（Hermès） | Thierry Hermès | 奢侈品 / 时尚 | 直接使用创始人姓氏。 |
+| 古驰（Gucci） | Guccio Gucci | 奢侈品 / 时尚 | 使用创始人姓氏。 |
+| 普拉达（Prada） | Mario Prada | 奢侈品 / 时尚 | 使用创始人姓氏。 |
+| 范思哲（Versace） | Gianni Versace | 奢侈品 / 时尚 | 使用创始人姓氏。 |
+| 阿玛尼（Armani） | Giorgio Armani | 奢侈品 / 时尚 | 使用创始人姓氏。 |
+| 法拉利（Ferrari） | Enzo Ferrari | 汽车 | 使用创始人姓氏。 |
+| 福特（Ford） | Henry Ford | 汽车 | 使用创始人姓氏。 |
+| 保时捷（Porsche） | Ferdinand Porsche | 汽车 | 使用创始人姓氏。 |
+| 奔驰（Benz） | Karl Benz | 汽车 | 使用创始人姓氏。 |
+| 劳斯莱斯（Rolls-Royce） | Charles Rolls / Henry Royce | 汽车 | 由两位创始人姓氏组合而成。 |
+| 雪佛兰（Chevrolet） | Louis Chevrolet | 汽车 | 直接使用创始人姓氏。 |
+| 宝马（BMW） | Bayerische Motoren Werke | 汽车 | 不是人名，而是“巴伐利亚发动机制造厂”的缩写。 |
+| 丰田（Toyota） | Sakichi Toyoda / Kiichiro Toyoda | 汽车 | 源于创始人家族姓氏。 |
+| 本田（Honda） | Soichiro Honda | 汽车 / 摩托 | 使用创始人姓氏。 |
+| 铃木（Suzuki） | Michio Suzuki | 汽车 / 摩托 | 使用创始人姓氏。 |
+| 雅马哈（Yamaha） | Torakusu Yamaha | 汽车 / 摩托 / 机械 | 使用创始人姓氏。 |
+| 麦当劳（McDonald’s） | Richard McDonald / Maurice McDonald | 餐饮 | 使用兄弟俩姓氏。 |
+| 肯德基（KFC） | Harland Sanders | 餐饮 | 以创始人外号“Colonel Sanders”为核心符号。 |
+| 沃尔玛（Walmart） | Sam Walton | 零售 | 取自创始人姓氏 Walton。 |
+| 希尔顿（Hilton） | Conrad Hilton | 酒店 | 使用创始人姓氏。 |
+| 万豪（Marriott） | J. Willard Marriott | 酒店 | 使用创始人姓氏。 |
+| 赫兹（Hertz） | Walter L. Jacobs / 后续品牌沿用 | 汽车租赁 | 典型的创始人式商业品牌。 |
+| 李维斯（Levi’s） | Levi Strauss | 服饰 | 使用创始人姓名。 |
+| 盖璞（Gap） | Donald Fisher / Doris Fisher | 服饰零售 | 不是人名，是品牌概念型命名。 |
+| 强生（Johnson & Johnson） | Robert Wood Johnson 等 | 医疗 / 日化 | 由创始人家族姓氏组成。 |
+| 宝洁（Procter & Gamble） | William Procter / James Gamble | 日化 | 由两位合伙人姓氏组成。 |
+| 西门子（Siemens） | Werner von Siemens | 工业 / 电气 | 使用创始人姓氏。 |
+| 博世（Bosch） | Robert Bosch | 工业 / 汽车零部件 | 使用创始人姓氏。 |
+| 施耐德（Schneider） | Schneider 兄弟 | 工业 / 电气 | 使用家族姓氏。 |
+| 佳能（Canon） | Goro Yoshida（品牌源头） | 光学 / 电子 | 不完全是人名，但与创始团队有关。 |
+| 可口可乐（Coca-Cola） | John Stith Pemberton | 饮料 | 不是人名命名，是配方概念型命名。 |
+| 百事可乐（Pepsi） | Caleb Bradham | 饮料 | 不是人名命名，是成分/概念型命名。 |
+| 维密（Victoria’s Secret） | Roy Raymond | 内衣 | 不是创始人名，而是借用维多利亚时代意象。 |
+| 斯沃琪（Swatch） | Nicolas Hayek | 手表 | 不是人名命名，是缩写型命名。 |
+| 迪士尼（Disney） | Walt Disney | 娱乐 | 使用创始人姓氏。 |
+| 福克斯（Fox） | William Fox | 娱乐 | 使用创始人姓氏。 |
+| 华纳兄弟（Warner Bros.） | Warner 家族 | 娱乐 | 使用家族姓氏。 |
+| 卡地亚（Cartier） | Louis-François Cartier | 珠宝 | 使用创始人姓氏。 |
+| 蒂芙尼（Tiffany & Co.） | Charles Lewis Tiffany | 珠宝 | 使用创始人全名。 |
+| 耐克（Nike） | 不是人名 | 运动品牌 | 来自希腊胜利女神，不属于创始人命名。 |
+| 星巴克（Starbucks） | 不是人名 | 咖啡 | 来自文学人物名，不属于创始人命名。 |
 这些名字为什么不显“土”
 
 这些品牌之所以今天听起来"洋气"，

@@ -7,37 +7,40 @@
 
 车手积分
 
-名次	车手	积分	参赛数	领奖台	胜利
-1	Albert Arenas	166	10	7	2
-2	Valentin Debise	147	10	5	5
-3	Jaume Masia	130	10	4	2
-4	Can Oncu	128	10	5	0
-5	Philipp Oettl	105	10	2	1
-6	Matteo Ferrari	76	10	1	0
-7	Lucas Mahias	76	10	1	0
-8	Jeremy Alcoba	76	10	0	0
-9	Alessandro Zaccone	68	10	0	0
-10	Roberto Garcia	57	10	1	0
+| 名次 | 车手 | 积分 | 参赛数 | 领奖台 | 胜利 |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Albert Arenas | 166 | 10 | 7 | 2 |
+| 2 | Valentin Debise | 147 | 10 | 5 | 5 |
+| 3 | Jaume Masia | 130 | 10 | 4 | 2 |
+| 4 | Can Oncu | 128 | 10 | 5 | 0 |
+| 5 | Philipp Oettl | 105 | 10 | 2 | 1 |
+| 6 | Matteo Ferrari | 76 | 10 | 1 | 0 |
+| 7 | Lucas Mahias | 76 | 10 | 1 | 0 |
+| 8 | Jeremy Alcoba | 76 | 10 | 0 | 0 |
+| 9 | Alessandro Zaccone | 68 | 10 | 0 | 0 |
+| 10 | Roberto Garcia | 57 | 10 | 1 | 0 |
 
 厂商积分
 
-名次	制造商	积分	积分变化
-1	Yamaha	195	+20
-2	Ducati	179	+11
-3	ZXMOTO	149	+25
-4	Triumph	102	+16
-5	Kawasaki	79	+10
-6	Honda	16	—
-7	MV Agusta	13	—
+| 名次 | 制造商 | 积分 | 积分变化 |
+| --- | --- | --- | --- |
+| 1 | Yamaha | 195 | +20 |
+| 2 | Ducati | 179 | +11 |
+| 3 | ZXMOTO | 149 | +25 |
+| 4 | Triumph | 102 | +16 |
+| 5 | Kawasaki | 79 | +10 |
+| 6 | Honda | 16 | — |
+| 7 | MV Agusta | 13 | — |
 
 车队积分
 
-名次	车队	车手1	车手1积分	车手2	车手2积分	总积分
-1	AS Racing Team Yamaha	Arenas	166	Mahendra	54	220
-2	ZXMOTO Factory Evan Bros	Debise	147	Caricasulo	20	167
-3	Orelac Racing Verdnatura	Masia	130	Whatley	19	149
-4	GMT94 Yamaha	Mahias	76	Garcia	57	133
-5	Pata Yamaha Ten Kate Racing	Oncu	128	Okamoto	3	131
+| 名次 | 车队 | 车手1 | 车手1积分 | 车手2 | 车手2积分 | 总积分 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | AS Racing Team Yamaha | Arenas | 166 | Mahendra | 54 | 220 |
+| 2 | ZXMOTO Factory Evan Bros | Debise | 147 | Caricasulo | 20 | 167 |
+| 3 | Orelac Racing Verdnatura | Masia | 130 | Whatley | 19 | 149 |
+| 4 | GMT94 Yamaha | Mahias | 76 | Garcia | 57 | 133 |
+| 5 | Pata Yamaha Ten Kate Racing | Oncu | 128 | Okamoto | 3 | 131 |
 
 一共有三种积分
 
@@ -92,8 +95,6 @@ Cr.张雪机车
 德比斯采访时候说，他不希望任何人摔车，希望大家都没事。
 
 赛季争冠的格局彻底打开！
-
-00:32
 
 就是如此神奇。如此实力飙升。
 

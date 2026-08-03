@@ -3,9 +3,9 @@
 > 来源：知乎专栏「张雪机车 | 极致热爱」
 > 作者：耿悦
 
-发动机，是张雪的执念。
+## 发动机，是张雪的执念。
 
-此生必须造就的，不做不休。是他认为的国产摩托车的命门/天花板。如果不能做，就不要玩了。
+此生必须造就的，不做不休。**是他认为的国产摩托车的命门/天花板**。如果不能做，就不要玩了。
 
 写到这里我才真正意识到，张雪最在乎的，原来一直都是发动机。
 
@@ -15,11 +15,11 @@
 
 直道上拼的到底是啥？
 
-说到底就是拼发动机。
+**说到底就是拼发动机。**
 
 ![](images/v2-f9a7389d6e3f9e72c9e08cc147d75f7f.jpg)
 
-Explosive view: 820cc inline-three engine architecture
+Explosiveview:820ccinline-threeenginearchitecture
 
 功率够不够强，转速能不能拉得更快，出弯之后动力能不能接上。
 
@@ -33,9 +33,9 @@ Explosive view: 820cc inline-three engine architecture
 
 他在各种不同的对话里都在说这件事。
 
-Core assembly: the heart of performance
+![](images/v2-074352bd4a5d890a3869c31286af45e5.jpg)
 
-他反复说“发动机是摩托车的心脏”，直接决定性能上限。
+Coreassembly:theheartofperformance他反复说“发动机是摩托车的心脏”，直接决定性能上限。
 
 尤其是赛用发动机，是材料、设计和精密制造的综合天花板。
 
@@ -45,15 +45,13 @@ Core assembly: the heart of performance
 
 他讲得很直白：
 
-”没有自主研发的发动机，永远只能做组装厂，永远被国外品牌卡脖子。”
-
-这是他在产业链一线的切身感受：关键件在别人手里，价格、供货、技术路线都受制于人。
+”没有自主研发的发动机，永远只能做组装厂，永远被国外品牌卡脖子。”这是他在产业链一线的切身感受：关键件在别人手里，价格、供货、技术路线都受制于人。
 
 ![](images/v2-9f5ea1800beec64441421255a48ae62f.jpg)
 
-Precision assembly: complex systems built from countless components
+Precisionassembly:complexsystemsbuiltfromcountlesscomponents
 
-投资人提到，最打动他的，是张雪”凭听发动机的声音就能判断问题并做出改进”的能力。
+投资人提到，最打动他的，**是张雪”凭听发动机的声音就能判断问题并做出改进”的能力**。
 
 这种能力没有虚头巴脑的花哨，靠的是多年修车、改车、比赛、做整车一点点打磨练成。
 
@@ -71,19 +69,21 @@ Precision assembly: complex systems built from countless components
 
 自研高转速三缸发动机、冲击WSBK，本身就是把目标选在世界级最难赛道。
 
-发动机，就成了张雪实现壮志雄心的核心战场。
+**发动机，就成了张雪实现壮志雄心的核心战场。**
 
 在他看来，如果中国品牌要在全球长期站住，不掌握发动机这种核心技术，只靠堆配置、拼价格，是站不稳的。
 
 于是选择坚持原创路线，绕开欧美日专利壁垒，把核心部件高国产化率做在中国自己的供应链上。这里面有很强的”技术尊严感”。
 
-为了发动机，他愿意把一切押上。
+**为了发动机，他愿意把一切押上。**
 
-All-in: betting everything on the engine
+![](images/v2-09fb015e7905b005ba58cb7a45fd2fcd.jpg)
+
+All-in:bettingeverythingontheengine
 
 在凯越时，他坚持要做发动机，和股东理念不合。
 
-他提出：可以自己借钱研发，成功了归公司，失败了自己背。
+他提出：可以自己借钱研发，**成功了归公司，失败了自己背。**
 
 但最终，公司还是没有同意这条路线。
 
@@ -95,11 +95,11 @@ All-in: betting everything on the engine
 
 裸辞重新开始，也要去做发动机。
 
-正因为他认定发动机必须做，才会走到离开的那一步。
+**正因为他认定发动机必须做，才会走到离开的那一步。**
 
 对张雪来说，“国产车有没有一颗自己的心脏”比短期利润重要。
 
-即便呆下去，不断能有爆款车，也能够挣钱，但不是他想要的。
+即便呆下去，不断能有爆款车，也能够挣钱，**但不是他想要的。**
 
 自立门户后，他把所有身家砸进发动机项目里。
 
@@ -107,17 +107,17 @@ All-in: betting everything on the engine
 
 自己带着团队反复调校、测试、验证，推翻，重来。
 
-这种”把人生All in在一个零件上的”程度，是一场要么赢、要么不做的战役。
+这种”把人生Allin在一个零件上的”程度，**是一场要么赢、要么不做的战役。**
 
-发动机这件事，对张雪来说不是普通零部件，是核心、灵魂，是整台车真正的”心脏”。
+**发动机这件事，对张雪来说不是普通零部件，是核心、灵魂，是整台车真正的”心脏”。**
 
-他最执着的东西，其实一直都不是某一场比赛、某一波流量，甚至也不只是某一台车，是发动机本身。
+**他最执着的东西，其实一直都不是某一场比赛、某一波流量，甚至也不只是某一台车，是发动机本身。**
 
-在张雪的判断里，发动机是摩托车领域的命门。
+在张雪的判断里，**发动机是摩托车领域的命门。**
 
 ![](images/v2-cfe14594107e5137da435a680c7d80da.jpg)
 
-Breaking point: leaving everything behind for the dream
+Breakingpoint:leavingeverythingbehindforthedream
 
 那为什么能这么快呢？
 
@@ -141,15 +141,13 @@ Breaking point: leaving everything behind for the dream
 
 ![](images/v2-fb05a925df55b0b67b35e974422ffaa4.jpg)
 
-Deconstructed: 20 years of experience, 2 years of execution
-
-发动机当然是极其复杂的系统，但它不是凭空出现的奇迹，是长期经验、成熟供应链和资源集中投入一起砸出来的结果。
+Deconstructed:20yearsofexperience,2yearsofexecution**发动机当然是极其复杂的系统，但它不是凭空出现的奇迹，是长期经验、成熟供应链和资源集中投入一起砸出来的结果。**
 
 真正关键的，不只是他个人技术高，是“人、产业、时代”刚好对齐了。
 
 至少有三层东西叠在一起。
 
-人的层面：
+## 人的层面：
 
 张雪是极少数”自己修过车、参加比赛、工厂力量、又做过产品线和公司”的复合型人物，既懂车感，也懂工程，和市场，而且传播的能力太牛了。
 
@@ -157,7 +155,7 @@ Deconstructed: 20 years of experience, 2 years of execution
 
 很多人懂技术，但不敢把公司压在一次发动机豪赌上。
 
-产业的层面：
+## 产业的层面：
 
 这几年，中国本土的机加工、铸造、精密制造供应链已经成熟到能支撑高性能发动机的地步。
 
@@ -165,7 +163,7 @@ Deconstructed: 20 years of experience, 2 years of execution
 
 十年前，就算有人想做，配套跟不上。要么造价吓人，要么精度不过关。
 
-规则和市场的层面：
+## 规则和市场的层面：
 
 世界超级摩托车锦标赛的技术规则，给了中排量三缸一个窗口。
 
@@ -189,13 +187,11 @@ Deconstructed: 20 years of experience, 2 years of execution
 
 也不是之前完全没人想做，是以前缺人、缺钱、缺供应链，也缺规则窗口。
 
-到他这一代，刚好人、产业、时代都对上了，他就成了那个把门推开的第一批人之一。
+到他这一代，刚好人、产业、时代都对上了，**他就成了那个把门推开的第一批人之一。**
 
 ![](images/v2-de7c838e507f86cd63921fae89c23958.jpg)
 
-Breakthrough: the first to push the door open
-
-回到那场比赛，你就会明白，这场胜利归根到底赢在哪里。
+Breakthrough:thefirsttopushthedooropen回到那场比赛，你就会明白，这场胜利归根到底赢在哪里。
 
 820RR-RS用的是819cc直列三缸水冷发动机。
 
@@ -215,9 +211,7 @@ Breakthrough: the first to push the door open
 
 ![](images/v2-3684317be19d3e1daf8a538adfdb62f8.jpg)
 
-Technical specs: 819cc inline-three, 150hp @ 15250rpm
-
-整车干重降到160多公斤，满油状态也就175公斤左右。
+Technicalspecs:819ccinline-three,150hp@15250rpm整车干重降到160多公斤，满油状态也就175公斤左右。
 
 比市售标准版轻了20多公斤。
 
@@ -232,18 +226,17 @@ Technical specs: 819cc inline-three, 150hp @ 15250rpm
 张雪反复说，
 
 发动机就是国产摩托车的命门。
-没有自己的发动机，永远只能给别人打工。
 
-十四岁开始摸车，快四十岁制作出爱车的心脏。
+没有自己的发动机，永远只能给别人打工。十四岁开始摸车，快四十岁制作出爱车的心脏。
 
 两年看似快，二十年磨一剑。
 
 这是张雪的离职信，
 
-The resignation letter: choosing the harder path
+![](images/v2-99ab7fbb25d37e7532492dd26a3acb4d.jpg)
 
-而他，真的追求到了属于他的星辰大海，和未来。
+Theresignationletter:choosingtheharderpath而他，真的追求到了属于他的星辰大海，和未来。
 
-The journey continues: reaching for the stars
+![](images/v2-dec96055e810c2254d3a3fb979a9f311.jpg)
 
-配图说明：被张雪激发了想象创造力。这篇是我用AI做的创意图，非实际产品图。
+Thejourneycontinues:reachingforthestars配图说明：被张雪激发了想象创造力。这篇是我用AI做的创意图，非实际产品图。
